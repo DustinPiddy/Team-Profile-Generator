@@ -17,6 +17,9 @@ class Employee {
   getRole() {
     return "Employee";
   }
+  getSchool() {
+    return "school";
+  }
 };
 
 module.exports = Employee;
